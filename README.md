@@ -15,11 +15,11 @@
     <br />
     <strong>🚧 Status: In Development</strong>
     <br /><br />
-    <a href="https://github.com/PremSaiBollamoni/SMO-App">🔗 View Project</a>
+    <a href="https://github.com/SMO2K25/SMO-Sewing-Machine-Operation">🔗 View Project</a>
     ·
-    <a href="https://github.com/PremSaiBollamoni/SMO-App/issues">🐛 Report Bug</a>
+    <a href="https://github.com/SMO2K25/SMO-Sewing-Machine-Operation/issues">🐛 Report Bug</a>
     ·
-    <a href="https://github.com/PremSaiBollamoni/SMO-App/issues">✨ Request Feature</a>
+    <a href="https://github.com/SMO2K25/SMO-Sewing-Machine-Operation/issues">✨ Request Feature</a>
   </p>
 </div>
 
