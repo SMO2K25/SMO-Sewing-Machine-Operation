@@ -51,8 +51,8 @@ The **SMO App** is a user-friendly application built using Flutter and Spring Bo
 
 ```bash
 # Clone the repository
-git clone https://github.com/PremSaiBollamoni/SMO-App.git
-cd SMO-App
+git clone https://github.com/SMO2K25/SMO-Sewing-Machine-Operation
+cd SMO-Sewing-Machine-Operation
 
 # Install Flutter dependencies
 flutter pub get
@@ -63,6 +63,7 @@ flutter run
 # Backend (Spring Boot)
 cd backend/
 ./mvnw spring-boot:run
+
 ```
 ## 🤝 Our Contributors
 
