@@ -64,12 +64,23 @@ flutter run
 cd backend/
 ./mvnw spring-boot:run
 ```
-## Our Contributors
+## 🤝 Our Contributors
 
 | Name             | GitHub                                                   |
 | ---------------  | -------------------------------------------------------- |
 | Prem Sai         | [@PremSaiBollamoni](https://github.com/PremSaiBollamoni) |
 | Jayaram Bonthu   | [@Bonthujayaram](https://github.com/Bonthujayaram)       |
-| Awantika Sharma     | [@Sharmaawan](https://github.com/Sharmaawan)             |
+| Awantika Sharma     | [@Sharmaawan](https://github.com/Sharmaawan)          |
 | Rajeev Bendalam  | [@BendalamRajeev](https://github.com/BendalamRajeev)     |
 | Josh Swaroop     | [@josh2210200404](https://github.com/josh2210200404)     |
+
+## 🙌 Acknowledgments
+
+```bash
+💙 Flutter       → https://flutter.dev  
+🌿 Spring Boot   → https://spring.io  
+🎨 Figma         → https://figma.com  
+🛢️ MySQL         → https://www.mysql.com  
+🛡️ Shields.io    → https://shields.io  
+
+```
